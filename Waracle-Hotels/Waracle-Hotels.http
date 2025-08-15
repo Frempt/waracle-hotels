@@ -1,0 +1,33 @@
+@Waracle-Hotels_HostAddress = https://localhost:7094
+@Waracle_Hotels_HostAddress = http://localhost:5088
+
+GET {{Waracle_Hotels_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{Waracle-Hotels_HostAddress}}/api/Hotels
+
+###
+
+@checkInDate=2025-08-14T19:56:01.5027544+00:00
+@checkOutDate=2025-08-14T19:56:01.5027544+00:00
+@numberOfGuests=0
+GET {{Waracle-Hotels_HostAddress}}/api/Rooms/{checkInDate, checkOutDate, numberOfGuests}?checkInDate={{checkInDate}}&checkOutDate={{checkOutDate}}&numberOfGuests={{numberOfGuests}}
+
+###
+
+GET {{Waracle-Hotels_HostAddress}}/api/Rooms/Availability/{checkInDate, checkOutDate, numberOfGuests}?checkInDate={{checkInDate}}&checkOutDate={{checkOutDate}}&numberOfGuests={{numberOfGuests}}
+
+###
+
+POST https://localhost:7094/api/Bookings
+Content-Type: application/json
+
+{
+  "checkInDate":"2025-09-05",
+  "checkOutDate":"2025-09-06",
+  "hotelRoomId":"57add5c4-fb3c-40f0-ae72-31b9b4f7addd"
+}
+
+###
