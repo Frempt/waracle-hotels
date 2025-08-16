@@ -8,8 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 
-string? connection = String.Empty;
-if (builder.Environment.IsDevelopment())
+string? connection = builder.Configuration.GetConnectionString("CONNECTIONSTRING");
+/*if (builder.Environment.IsDevelopment())
 {
     builder.Configuration.AddEnvironmentVariables().AddJsonFile("appsettings.Development.json");
     connection = builder.Configuration.GetConnectionString("CONNECTIONSTRING");
@@ -17,7 +17,7 @@ if (builder.Environment.IsDevelopment())
 else
 {
     connection = Environment.GetEnvironmentVariable("CONNECTIONSTRING");
-}
+}*/
 
 builder.Services.AddDbContext<HotelContext>(options => options.UseSqlServer(connection));
 

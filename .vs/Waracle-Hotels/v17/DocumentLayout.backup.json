@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\james\\Documents\\GitHub\\Waracle-Hotels\\Waracle-Hotels\\",
+  "WorkspaceRootPath": "C:\\Users\\james\\Documents\\GitHub\\waracle-hotels\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|c:\\users\\james\\documents\\github\\waracle-hotels\\waracle-hotels\\controllers\\hotelroombookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|solutionrelative:controllers\\hotelroombookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|c:\\users\\james\\documents\\github\\waracle-hotels\\waracle-hotels\\models\\hotelroombooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|solutionrelative:models\\hotelroombooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|c:\\users\\james\\documents\\github\\waracle-hotels\\waracle-hotels\\models\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|solutionrelative:models\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|c:\\users\\james\\documents\\github\\waracle-hotels\\waracle-hotels\\waracle-hotels.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|solutionrelative:waracle-hotels.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|c:\\users\\james\\documents\\github\\waracle-hotels\\waracle-hotels\\controllers\\hotelroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|solutionrelative:controllers\\hotelroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|c:\\users\\james\\documents\\github\\waracle-hotels\\waracle-hotels\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|solutionrelative:controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|c:\\users\\james\\documents\\github\\waracle-hotels\\waracle-hotels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|c:\\users\\james\\documents\\github\\waracle-hotels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|c:\\users\\james\\documents\\github\\waracle-hotels\\waracle-hotels\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|c:\\users\\james\\documents\\github\\waracle-hotels\\controllers\\hotelroombookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|solutionrelative:controllers\\hotelroombookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|c:\\users\\james\\documents\\github\\waracle-hotels\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|c:\\users\\james\\documents\\github\\waracle-hotels\\waracle-hotels\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|c:\\users\\james\\documents\\github\\waracle-hotels\\waracle-hotels.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|solutionrelative:waracle-hotels.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|c:\\users\\james\\documents\\github\\waracle-hotels\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|solutionrelative:controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|c:\\users\\james\\documents\\github\\waracle-hotels\\models\\hotelroombooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|solutionrelative:models\\hotelroombooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|c:\\users\\james\\documents\\github\\waracle-hotels\\models\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|solutionrelative:models\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|c:\\users\\james\\documents\\github\\waracle-hotels\\controllers\\hotelroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|solutionrelative:controllers\\hotelroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|c:\\users\\james\\documents\\github\\waracle-hotels\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F0F19C4-4039-4CBF-BCCC-7DDC6B025CB3}|Waracle-Hotels.csproj|solutionrelative:models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,122 +46,118 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HotelRoomBookingController.cs",
-              "DocumentMoniker": "C:\\Users\\james\\Documents\\GitHub\\Waracle-Hotels\\Waracle-Hotels\\Controllers\\HotelRoomBookingController.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\GitHub\\waracle-hotels\\Controllers\\HotelRoomBookingController.cs",
               "RelativeDocumentMoniker": "Controllers\\HotelRoomBookingController.cs",
-              "ToolTip": "C:\\Users\\james\\Documents\\GitHub\\Waracle-Hotels\\Waracle-Hotels\\Controllers\\HotelRoomBookingController.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\GitHub\\waracle-hotels\\Controllers\\HotelRoomBookingController.cs",
               "RelativeToolTip": "Controllers\\HotelRoomBookingController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwEUAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T09:08:32.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HotelContext.cs",
-              "DocumentMoniker": "C:\\Users\\james\\Documents\\GitHub\\Waracle-Hotels\\Waracle-Hotels\\Models\\HotelContext.cs",
-              "RelativeDocumentMoniker": "Models\\HotelContext.cs",
-              "ToolTip": "C:\\Users\\james\\Documents\\GitHub\\Waracle-Hotels\\Waracle-Hotels\\Models\\HotelContext.cs",
-              "RelativeToolTip": "Models\\HotelContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T16:34:50.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "HotelRoomBooking.cs",
-              "DocumentMoniker": "C:\\Users\\james\\Documents\\GitHub\\Waracle-Hotels\\Waracle-Hotels\\Models\\HotelRoomBooking.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\GitHub\\waracle-hotels\\Models\\HotelRoomBooking.cs",
               "RelativeDocumentMoniker": "Models\\HotelRoomBooking.cs",
-              "ToolTip": "C:\\Users\\james\\Documents\\GitHub\\Waracle-Hotels\\Waracle-Hotels\\Models\\HotelRoomBooking.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\GitHub\\waracle-hotels\\Models\\HotelRoomBooking.cs",
               "RelativeToolTip": "Models\\HotelRoomBooking.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T09:05:56.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T09:05:56.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\james\\Documents\\GitHub\\Waracle-Hotels\\Waracle-Hotels\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\GitHub\\waracle-hotels\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\james\\Documents\\GitHub\\Waracle-Hotels\\Waracle-Hotels\\Program.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\GitHub\\waracle-hotels\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBUAAABZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-12T09:30:04.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "HotelsController.cs",
-              "DocumentMoniker": "C:\\Users\\james\\Documents\\GitHub\\Waracle-Hotels\\Waracle-Hotels\\Controllers\\HotelsController.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\GitHub\\waracle-hotels\\Controllers\\HotelsController.cs",
               "RelativeDocumentMoniker": "Controllers\\HotelsController.cs",
-              "ToolTip": "C:\\Users\\james\\Documents\\GitHub\\Waracle-Hotels\\Waracle-Hotels\\Controllers\\HotelsController.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\GitHub\\waracle-hotels\\Controllers\\HotelsController.cs",
               "RelativeToolTip": "Controllers\\HotelsController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T09:32:55.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T09:32:55.76Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Waracle-Hotels.http",
-              "DocumentMoniker": "C:\\Users\\james\\Documents\\GitHub\\Waracle-Hotels\\Waracle-Hotels\\Waracle-Hotels.http",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\GitHub\\waracle-hotels\\Waracle-Hotels.http",
               "RelativeDocumentMoniker": "Waracle-Hotels.http",
-              "ToolTip": "C:\\Users\\james\\Documents\\GitHub\\Waracle-Hotels\\Waracle-Hotels\\Waracle-Hotels.http",
+              "ToolTip": "C:\\Users\\james\\Documents\\GitHub\\waracle-hotels\\Waracle-Hotels.http",
               "RelativeToolTip": "Waracle-Hotels.http",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAWwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-08-15T18:50:57.917Z",
+              "WhenOpened": "2025-08-15T18:50:57.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HotelRoomController.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\GitHub\\waracle-hotels\\Controllers\\HotelRoomController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HotelRoomController.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\GitHub\\waracle-hotels\\Controllers\\HotelRoomController.cs",
+              "RelativeToolTip": "Controllers\\HotelRoomController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T16:41:08.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\GitHub\\waracle-hotels\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\james\\Documents\\GitHub\\waracle-hotels\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T09:36:48.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HotelRoomController.cs",
-              "DocumentMoniker": "C:\\Users\\james\\Documents\\GitHub\\Waracle-Hotels\\Waracle-Hotels\\Controllers\\HotelRoomController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HotelRoomController.cs",
-              "ToolTip": "C:\\Users\\james\\Documents\\GitHub\\Waracle-Hotels\\Waracle-Hotels\\Controllers\\HotelRoomController.cs",
-              "RelativeToolTip": "Controllers\\HotelRoomController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCwAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "HotelContext.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\GitHub\\waracle-hotels\\Models\\HotelContext.cs",
+              "RelativeDocumentMoniker": "Models\\HotelContext.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\GitHub\\waracle-hotels\\Models\\HotelContext.cs",
+              "RelativeToolTip": "Models\\HotelContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T16:41:08.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T16:34:50.709Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Hotel.cs",
-              "DocumentMoniker": "C:\\Users\\james\\Documents\\GitHub\\Waracle-Hotels\\Waracle-Hotels\\Models\\Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\james\\Documents\\GitHub\\waracle-hotels\\Models\\Hotel.cs",
               "RelativeDocumentMoniker": "Models\\Hotel.cs",
-              "ToolTip": "C:\\Users\\james\\Documents\\GitHub\\Waracle-Hotels\\Waracle-Hotels\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\james\\Documents\\GitHub\\waracle-hotels\\Models\\Hotel.cs",
               "RelativeToolTip": "Models\\Hotel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-12T09:27:27.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\james\\Documents\\GitHub\\Waracle-Hotels\\Waracle-Hotels\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\james\\Documents\\GitHub\\Waracle-Hotels\\Waracle-Hotels\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-12T09:36:48.8Z"
             }
           ]
         }
