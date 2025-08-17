@@ -42,13 +42,18 @@ namespace Waracle_Hotels.Controllers
         [HttpPost]
         public async Task<ActionResult<HotelRoomBooking>> CreateHotelRoomBooking([FromBody] HotelRoomBooking request)
         {
-
             HotelRoom room = _context.HotelRoom.Find(request.HotelRoomID);
             RoomType roomType = _context.RoomType.Find(room.RoomTypeID);
-
-            if (room == null || roomType == null)// || roomType.Capacity < request.numberOfGuests) //todo - need to know how many guests in this booking to validate
+            IEnumerable<HotelRoomBooking> bookings = (await _context.HotelRoomBooking.ToListAsync()).Where(t => t.HotelRoomID == room.HotelRoomID
+                                                                                                            && ((t.CheckInDate >= request.CheckInDate && t.CheckInDate < request.CheckOutDate)
+                                                                                                            || (t.CheckInDate <= request.CheckInDate && t.CheckOutDate >= request.CheckInDate)));
+            //ensure the room and room type exist, the guest count isn't over the room type's capacity, and the room isn't already booked during these dates
+            if (room == null || roomType == null
+                || request.NumberOfGuests > roomType.Capacity
+                || bookings.Count() > 0
+                || request.CheckOutDate <= request.CheckInDate)
             {
-                //todo validation failed, do not proceed
+                return BadRequest();
             }
             else
             {
@@ -56,18 +61,51 @@ namespace Waracle_Hotels.Controllers
                 hotelRoomBooking.CheckInDate = request.CheckInDate;
                 hotelRoomBooking.CheckOutDate = request.CheckOutDate;
                 hotelRoomBooking.HotelRoomID = room.HotelRoomID;
+                hotelRoomBooking.NumberOfGuests = request.NumberOfGuests;
                 string? maxReference = "";
                 maxReference = _context.HotelRoomBooking.OrderByDescending(t => t.BookingReference).First().BookingReference;
-
-                hotelRoomBooking.BookingReference = (Int32.Parse(maxReference) + 1).ToString("0000000");
+                if (maxReference == null) maxReference = "00000000";
+                hotelRoomBooking.BookingReference = (int.Parse(maxReference) + 1).ToString("0000000");
 
                 _context.HotelRoomBooking.Add(hotelRoomBooking);
                 await _context.SaveChangesAsync();
 
                 return Ok(hotelRoomBooking.BookingReference);
             }
+        }
 
-            return BadRequest();
+        [HttpPost("Reset")]
+        public async Task<ActionResult<bool>> ResetDatabase()
+        {
+            try
+            {
+
+                FormattableString sql = $"EXEC DBReset";
+                await _context.Database.ExecuteSqlAsync(sql);
+                return true;
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
+
+        }
+
+        [HttpPost("Seed")]
+        public async Task<ActionResult<bool>> SeedDatabase()
+        {
+            try
+            {
+
+                FormattableString sql = $"EXEC DBSeed";
+                await _context.Database.ExecuteSqlAsync(sql);
+                return true;
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
+
         }
     }
 }
